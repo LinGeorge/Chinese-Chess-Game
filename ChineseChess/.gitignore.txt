@@ -1,3 +1,0 @@
-/.vs
-/Chinese-Chess-Game/x64/Debug
-/x64/Debug
